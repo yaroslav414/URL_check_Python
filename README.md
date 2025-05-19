@@ -1,8 +1,6 @@
 # Status Checker
 <h1 align="center">
-  <br>
-  <a href=" https://github.com/BLACK-SCORP10/Email-Vulnerablity-Checker.git"><img src="img/url-status-checker-logo.png"></a>
-  <br>
+  
   URL Status Checker v2.1
   <br>
 </h1>
